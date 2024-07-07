@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ddev, docker
-- ☑️ Certified: ITIL V3
-
+- :white_check_mark: Certified: ITIL V3
 
 
 | My Contao 4/5 bundles | My Contao 4/5 Componets | My Contao 4/5 Themes |
