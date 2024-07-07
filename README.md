@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my new contao project
 - 🌱 I’m currently learning ddev, docker
 - :white_check_mark: Certified: ITIL V3
 
