@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ddev, docker
+- ☑️ Certified: ITIL V3
+
+
+
+| My Contao 4/5 bundles | My Contao 4/5 Componets | My Contao 4/5 Themes |
+| ------------- | ------------- | ------------- |
+| Look at here: [BugBuster1701?tab=repositories&q=Bundle](https://github.com/BugBuster1701?tab=repositories&q=Bundle&type=&language=) | Now in my organisation: https://github.com/jedocodes-components |
+https://github.com/jedocodes-components
+
+
 <!--
 **jedoCodes/jedoCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
