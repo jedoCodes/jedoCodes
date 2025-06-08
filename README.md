@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my new contao project
-- 🌱 I’m currently learning ddev, docker
+- 🌱 I’m currently learning react
 - :white_check_mark: Certified: ITIL V3
 
 
